@@ -2,7 +2,8 @@
 
 VibeMatch is an AI-powered aesthetic curation tool that finds the perfect niche music and generates stunning Instagram story templates for your photos. Whether it's a daily outfit check or a special birthday surprise, VibeMatch transforms your moments into high-vibe digital scrapbooks.
 
-![VibeMatch Banner](https://picsum.photos/seed/vibematch/1200/400)
+![VibeMatch Banner](<img width="1920" height="836" alt="Screenshot 2026-03-10 001153" src="https://github.com/user-attachments/assets/d2547eaf-1267-4e86-9b60-60369dc20d69" />
+)
 
 ## 🚀 Features
 
@@ -55,9 +56,7 @@ VibeMatch is a full-stack application (Express + Vite). To deploy it on Vercel:
 4. **Environment Variables**: Add your `GEMINI_API_KEY` in the Vercel project settings.
 5. **Serverless Functions**: Since this app uses an Express backend, you may need to wrap your Express app in a Vercel serverless function or use a framework like Next.js if you want a seamless single-command deployment. For the current structure, Vercel will serve the static files, but you'll need to host the API separately or use Vercel's `/api` directory for serverless functions.
 
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for details.
+Attention- this project is built for sole purpose of fun.
 
 ---
 Made with ❤️ by [Bhavi](https://github.com/yourusername)
