@@ -2,7 +2,7 @@
 
 VibeMatch is an AI-powered aesthetic curation tool that analyzes the vibe of your photos and generates visually appealing Instagram story templates paired with niche music recommendations.
 
-The goal of this project is to transform everyday moments — whether it's an outfit check, a memory with friends, or a birthday surprise — into aesthetic, story-ready digital scrapbooks.
+The goal of this project is to transform everyday moments — whether it's an outfit check, a memory with friends, or a birthday surprise into aesthetic, story-ready digital scrapbooks.
 
 <p align="center">
   <img src="./asset/banner.png" alt="VibeMatch Banner"/>
